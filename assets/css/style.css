@@ -98,6 +98,11 @@ p {
     grid-template-rows: auto;
 }
 
+.text-right {
+    width: 100%;
+    text-align: right;
+}
+
 /******** HEADER ********/
 header {
     text-align: center;
